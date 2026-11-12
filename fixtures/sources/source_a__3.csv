@@ -1,0 +1,4 @@
+source,trust_level,userName,createdAt,mobile,mail,city
+source_a,3,张伟,2024-01-02,+86 138-0013-8000,zhangwei@example.com,北京
+source_a,3,陈静,2024-04-05,13700137001,chenjing@example.com,
+source_a,3,陈净,2024-05-06,13900139001,chenjing_other@example.com,

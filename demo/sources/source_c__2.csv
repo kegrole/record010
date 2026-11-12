@@ -1,0 +1,5 @@
+source,trust_level,姓名,创建时间,手机号,邮箱,城市
+source_c,1,张伟,2024年1月2日,138 0013 8000,zhangwei@example.com,北京市
+source_c,1,伟张,2024-06-07,,,
+source_c,2,陈静,2024-04-05,,chenjing@example.com,杭州
+source_c,2,陈净,2024-05-06,,chenjing_other@example.com,苏州

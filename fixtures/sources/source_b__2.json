@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "source": "source_b",
+      "trust_level": 2,
+      "userName": "张伟",
+      "createdAt": "2024/1/2",
+      "phone": "0086138000138000",
+      "email": "zhangwei@example.com",
+      "city": "上海"
+    },
+    {
+      "source": "source_b",
+      "trust_level": 2,
+      "姓名": "张伟",
+      "创建时间": "2024-06-07"
+    },
+    {
+      "source": "source_b",
+      "trust_level": 2,
+      "userName": "陈静",
+      "email": "chenjing@example.com",
+      "city": "广州"
+    },
+    {
+      "source": "source_b",
+      "trust_level": 2,
+      "userName": "陈净",
+      "email": "chenjing_other@example.com",
+      "city": "苏州"
+    }
+  ]
+}
